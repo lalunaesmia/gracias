@@ -3,6 +3,9 @@
     background-repeat: no-repeat;
     background-size: 100%;
 }*/
+body{
+    background-color: black;
+}
 
 img {
     display:block;
